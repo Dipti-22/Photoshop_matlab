@@ -20,7 +20,7 @@ Developed a photoshop application using MATLAB, this application can be used to 
 </p>
 
 ## Image compliment 
-<img src="https://user-images.githubusercontent.com/75442473/182149196-d914f8bc-9eb8-466d-954e-3d0af79b15a7.png" width="500" height="400">  <img src="https://user-images.githubusercontent.com/75442473/182148826-cf04dd46-c561-481f-9d7c-90fe61f6034f.png" width="500" height="400">  
+<img src="https://user-images.githubusercontent.com/75442473/182149196-d914f8bc-9eb8-466d-954e-3d0af79b15a7.png" width="400" height="300">  <img src="https://user-images.githubusercontent.com/75442473/182148826-cf04dd46-c561-481f-9d7c-90fe61f6034f.png" width="400" height="300">  
 
 
 
