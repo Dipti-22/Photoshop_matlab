@@ -15,8 +15,7 @@ Developed a photoshop application using MATLAB, this application can be used to 
 
 ## Histogram equilization of the image
 <p align="center">
-<img src = "https://user-images.githubusercontent.com/75442473/182147597-b93275f3-2fe5-4a44-9260-2097421520d0.png"
- />
+<img src = "https://user-images.githubusercontent.com/75442473/182147597-b93275f3-2fe5-4a44-9260-2097421520d0.png"/>
 </p>
 
 ## Image compliment 
